@@ -2,10 +2,4 @@
 
 Signed updates for Stowaway pets.
 
-| | |
-|---|---|
-| Latest release | **0.9** (build 11) |
-| Codename | Henry |
-| Released | 2026-11-07 |
-| Channels | beta: build 11 · stable: build 10 |
-| Checks | ✓ passed CI before release |
+![release](https://img.shields.io/badge/release-0.9%20%C2%B7%20build%2011-blue) ![codename](https://img.shields.io/badge/codename-Henry-blueviolet) ![released](https://img.shields.io/badge/released-2026--11--07-grey) ![beta](https://img.shields.io/badge/beta-build%2011-orange) ![stable](https://img.shields.io/badge/stable-build%2010-brightgreen) ![CI](https://img.shields.io/badge/CI-passed-brightgreen)
